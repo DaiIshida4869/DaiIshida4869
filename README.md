@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=onedark)
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaiIshida4869&theme=onedark" />
-  <img alt="github stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&ayout=compact&count_private=true&theme=onedark" />
+  <img alt="Top Langs" height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaiIshida4869&theme=onedark" />
+  <img alt="github stats" height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&ayout=compact&count_private=true&theme=onedark" />
 </p>
 
 ## Trophy
