@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=gruvbox)
-<p align="left"> 
-    <img alt="GitHub Stats" height="200px" style="width: 900px;" src="https://github-readme-stats.vercel.app/api?username=DaiIshida4869&theme=onedark&show_icons=true" />
-</p>
+<div style="width: 900px;">
+    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=DaiIshida4869&theme=onedark&show_icons=true" />
+</div>
+
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=gruvbox)
