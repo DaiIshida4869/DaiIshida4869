@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=onedark)
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&ayout=compact&count_private=true&theme=onedark" />
+  <img alt="Top Langs" height="200px" style="border: 2px solid white;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" style="border: 2px solid white;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&layout=compact&count_private=true&theme=onedark" />
 </p>
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=onedark&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
