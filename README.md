@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
+
 <p align="left">
-  <img alt="Profile Details" width="495px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=gruvbox" />
+  <img alt="Profile Details" width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=gruvbox" />
 </p>
 <p align="left"> 
-  <img alt="Top Langs" height="200px" width="247px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="GitHub Stats" height="200px" width="247px" src="https://github-readme-stats.vercel.app/api?username=DaiIshida4869&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=DaiIshida4869&theme=onedark&show_icons=ture" />
 </p>
-
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=gruvbox)
