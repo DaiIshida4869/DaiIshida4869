@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&theme=gruvbox)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=gruvbox)
