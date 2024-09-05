@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-[![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=gruvbox)]
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=onedark)]
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiIshida4869&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&theme=onedark" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&ayout=compact&count_private=true&theme=onedark" />
 </p>
 
 ## Trophy
