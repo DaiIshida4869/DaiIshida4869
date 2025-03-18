@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   <img alt="github stats" height="205px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaiIshida4869&ayout=compact&count_private=true&theme=onedark" />
 </p> -->
 
-## Trophy
+<!-- ## Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DaiIshida4869&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
