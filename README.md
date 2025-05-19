@@ -15,6 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
+
+I'm a developer who enjoys building solutions across a variety of languages and cloud platforms. I love exploring new technologies and focusing on automation and infrastructure as code.
+
+## Skill Board
+
+### Languages
+- Python
+- SQL
+- Java
+- Haskell
+- C
+- JavaScript
+- HTML5/CSS
+- Ruby
+
+### Additional skills
+- Azure
+- Google Cloud
+- AWS
+- Linux
+- Windows Server
+- Docker
+- Git
+- Agile
+- CI/CD
+- API Design
+- Terraform
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaiIshida4869&theme=onedark)
 <!-- <p align="left"> 
